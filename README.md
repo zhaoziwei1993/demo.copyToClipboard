@@ -3,4 +3,4 @@
 
 # copyToClipboard.js
 
-### copyToClipboard(value, callback)
+- copyToClipboard(value, callback)
