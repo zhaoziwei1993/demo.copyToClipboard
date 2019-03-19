@@ -1,1 +1,6 @@
-# demo.copyToClipboard
+
+
+
+# copyToClipboard.js
+
+### copyToClipboard(value, callback)
